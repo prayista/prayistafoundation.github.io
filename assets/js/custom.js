@@ -88,7 +88,7 @@ jQuery(function($) {
   /* ------ Countdown ----- */
 
   $('#countdown').countdown({
-      date: '11/21/2021 12:00:00',
+      date: '02/25/2022 12:00:00',
       offset: +2,
     day: 'Day',
     days: 'Days'
